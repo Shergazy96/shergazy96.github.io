@@ -5,7 +5,6 @@
   <title>Добавление изображений</title>
  </head>
  <body>
-  <p><img src="https://cdn2.iconfinder.com/data/icons/cutecritters/t9tuqui_trans.png" 
-    alt="Абсолютный адрес изображения"></p>
+  <p><img src="https://cdn2.iconfinder.com/data/icons/cutecritters/t9tuqui_trans.png" alt="Абсолютный адрес изображения"></p>
  </body>
 </html>
